@@ -1,7 +1,7 @@
-import logo from '../assets/images/logo.png';
-import landing_picture from '../assets/images/landing_picture.jpg';
+import logo from '../assets/logo.png';
+import landing_picture from '../assets/landing_picture.jpg';
 
 export default {
     logo,
-    landing_picture
-}
+    landing_picture,
+};
