@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import HomePage from './pages/HomePage/HomePage';
 
-function App() {
+const App = () => {
   return (
     <div>
-      <h1> React Firebase Project </h1>
+      <HomePage />
     </div>
   );
 }
