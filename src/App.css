@@ -1,5 +1,5 @@
 .section__padding {
-  padding: 4rem 6rem;
+  padding: 3rem 3rem;
 }
 
 .flex__center {
@@ -19,7 +19,7 @@
 .app__wrapper {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: start;
 
   min-height: 100vh;
 }
@@ -29,7 +29,7 @@
   width: 100%;
   display: flex;
   justify-content: center;
-  align-items: flex-start;
+  align-items: flex-end;
   flex-direction: column;
 }
 
@@ -123,7 +123,7 @@
   }
 
   .app__wrapper_img {
-    margin: 5rem 0 0 0;
+    margin: 2rem 0 0 0;
   }
 
   .app__wrapper_img-reverse {
